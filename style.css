@@ -39,7 +39,17 @@ text-align: center;
   margin: 15px;
   justify-content: space-between;
   font-size: small;
+  background-color: red;
+  margin-bottom: 25%;
+  
+}
+a:hover {
+  background-color: red;
+}
+#details a {
+  color: darkblue;
   background-color: red
 }
+  
  
  
